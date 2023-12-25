@@ -1,0 +1,19 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "form ",
+  "main": "file.js",
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aanchal85805/sampleform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aanchal85805/sampleform/issues"
+  },
+  "homepage": "https://github.com/Aanchal85805/sampleform#readme"
+}
